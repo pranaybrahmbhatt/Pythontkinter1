@@ -1,0 +1,4 @@
+Libraries to be imported
+- tkinter
+- tkinter import *
+- sqlite3
